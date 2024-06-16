@@ -73,7 +73,7 @@ author_profile: true
   <h2>Netflix Film Analysis</h2>
   <a href="https://github.com/ethanlanders/netflix-film-analysis" class="github-button">View on GitHub</a>
   <h3>Video Demo:</h3>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/GDShteNxp6c?si=8WDGTLSQgJd4Rcyd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/GDShteNxp6c?si=8WDGTLSQgJd4Rcyd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
   <span><a href="https://colab.research.google.com/drive/15Z0Y3_eYU-PMwSIJ4-XGYdNBDaoJ52hA?usp=sharing" target="_blank">Click here</a> to view the project report.</span>
 
 </div>
@@ -100,7 +100,7 @@ author_profile: true
   <a href="https://github.com/ethanlanders/Walkability-And-Well-Being-Analysis-CS620-Data-Project" class="github-button">View on GitHub</a>
   <p><b>Old Dominion University, Fall 2023 & Spring 2024</b></p>
   <h3>Video Demo:</h3>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/W4uXdOSEJTo?si=CW39xMWMVd9xYa0k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/W4uXdOSEJTo?si=CW39xMWMVd9xYa0k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 
   <p>Collaborated with classmates on a project exploring the intricate relationship between community walkability and various facets of well-being in urban environments, focusing on New York City neighborhoods.</p>
 
@@ -122,7 +122,7 @@ author_profile: true
   <p><b>Old Dominion University, Fall 2023 & Spring 2024</b></p>
 
   <h3>Video Demo:</h3>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/MF5aDcGZ3pQ?si=n0fAuwoORmq0cF2d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/MF5aDcGZ3pQ?si=n0fAuwoORmq0cF2d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 
   <p>Collaborated with a classmate on a comprehensive project addressing CPU scheduling algorithms and process synchronization.</p>
 
