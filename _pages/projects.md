@@ -142,7 +142,7 @@ author_profile: true
   <p>This project allowed us to delve into the intricacies of operating systems, applying theoretical concepts to practical problem-solving.</p>
 </div>
 
-<script>
+<!-- <script>
 function openProject(evt, projectName) {
   var i, tabcontent, tablinks;
 
@@ -162,4 +162,4 @@ function openProject(evt, projectName) {
   document.getElementById(projectName).style.display = "block";
   evt.currentTarget.className += " active";
 }
-</script>
+</script> -->
