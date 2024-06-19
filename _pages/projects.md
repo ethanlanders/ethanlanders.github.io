@@ -64,9 +64,9 @@ author_profile: true
 
 <div class="tab">
   <button class="tablinks" onclick="openProject(event, 'NetflixFilmAnalysis')"><b>Netflix Film Analysis</b></button>
-  <button class="tablinks" onclick="openProject(event, 'CourseCompanion')"><b>Course Companion</b></button>
+  <!-- <button class="tablinks" onclick="openProject(event, 'CourseCompanion')"><b>Course Companion</b></button>
   <button class="tablinks" onclick="openProject(event, 'UrbanAnalysis')"><b>Walkability & Well-Being</b></button>
-  <button class="tablinks" onclick="openProject(event, 'CPUScheduling')"><b>CPU Management</b></button>
+  <button class="tablinks" onclick="openProject(event, 'CPUScheduling')"><b>CPU Management</b></button> -->
 </div>
 
 <div id="NetflixFilmAnalysis" class="tabcontent">
@@ -142,7 +142,7 @@ author_profile: true
   <p>This project allowed us to delve into the intricacies of operating systems, applying theoretical concepts to practical problem-solving.</p>
 </div>
 
-<!-- <script>
+<script>
 function openProject(evt, projectName) {
   var i, tabcontent, tablinks;
 
@@ -162,4 +162,4 @@ function openProject(evt, projectName) {
   document.getElementById(projectName).style.display = "block";
   evt.currentTarget.className += " active";
 }
-</script> -->
+</script>
