@@ -62,18 +62,40 @@ author_profile: true
 }
 </style>
 
+<script>
+function openProject(evt, projectName) {
+  var i, tabcontent, tablinks;
+
+  // Get all elements with class="tabcontent" and hide them
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+
+  // Get all elements with class="tablinks" and remove the class "active"
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+
+  // Show the current tab, and add an "active" class to the button that opened the tab
+  document.getElementById(projectName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+</script>
+
 <div class="tab">
   <button class="tablinks" onclick="openProject(event, 'NetflixFilmAnalysis')"><b>Netflix Film Analysis</b></button>
-  <!-- <button class="tablinks" onclick="openProject(event, 'CourseCompanion')"><b>Course Companion</b></button>
+  <button class="tablinks" onclick="openProject(event, 'CourseCompanion')"><b>Course Companion</b></button>
   <button class="tablinks" onclick="openProject(event, 'UrbanAnalysis')"><b>Walkability & Well-Being</b></button>
-  <button class="tablinks" onclick="openProject(event, 'CPUScheduling')"><b>CPU Management</b></button> -->
+  <button class="tablinks" onclick="openProject(event, 'CPUScheduling')"><b>CPU Management</b></button>
 </div>
 
 <div id="NetflixFilmAnalysis" class="tabcontent">
   <h2>Netflix Film Analysis</h2>
   <a href="https://github.com/ethanlanders/netflix-film-analysis" class="github-button">View on GitHub</a>
   <h3>Video Demo:</h3>
-  <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/GDShteNxp6c?si=8WDGTLSQgJd4Rcyd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/GDShteNxp6c?si=8WDGTLSQgJd4Rcyd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   <span><a href="https://colab.research.google.com/drive/15Z0Y3_eYU-PMwSIJ4-XGYdNBDaoJ52hA?usp=sharing" target="_blank">Click here</a> to view the project report.</span>
 
 </div>
@@ -100,7 +122,7 @@ author_profile: true
   <a href="https://github.com/ethanlanders/Walkability-And-Well-Being-Analysis-CS620-Data-Project" class="github-button">View on GitHub</a>
   <p><b>Old Dominion University, Fall 2023 & Spring 2024</b></p>
   <h3>Video Demo:</h3>
-  <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/W4uXdOSEJTo?si=CW39xMWMVd9xYa0k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/W4uXdOSEJTo?si=CW39xMWMVd9xYa0k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
   <p>Collaborated with classmates on a project exploring the intricate relationship between community walkability and various facets of well-being in urban environments, focusing on New York City neighborhoods.</p>
 
@@ -122,7 +144,7 @@ author_profile: true
   <p><b>Old Dominion University, Fall 2023 & Spring 2024</b></p>
 
   <h3>Video Demo:</h3>
-  <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/MF5aDcGZ3pQ?si=n0fAuwoORmq0cF2d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/MF5aDcGZ3pQ?si=n0fAuwoORmq0cF2d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
   <p>Collaborated with a classmate on a comprehensive project addressing CPU scheduling algorithms and process synchronization.</p>
 
@@ -141,25 +163,3 @@ author_profile: true
 
   <p>This project allowed us to delve into the intricacies of operating systems, applying theoretical concepts to practical problem-solving.</p>
 </div>
-
-<script>
-function openProject(evt, projectName) {
-  var i, tabcontent, tablinks;
-
-  // Get all elements with class="tabcontent" and hide them
-  tabcontent = document.getElementsByClassName("tabcontent");
-  for (i = 0; i < tabcontent.length; i++) {
-    tabcontent[i].style.display = "none";
-  }
-
-  // Get all elements with class="tablinks" and remove the class "active"
-  tablinks = document.getElementsByClassName("tablinks");
-  for (i = 0; i < tablinks.length; i++) {
-    tablinks[i].className = tablinks[i].className.replace(" active", "");
-  }
-
-  // Show the current tab, and add an "active" class to the button that opened the tab
-  document.getElementById(projectName).style.display = "block";
-  evt.currentTarget.className += " active";
-}
-</script>
