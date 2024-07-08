@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Projects"
-    url: /Projects/
+  # - title: "Projects"
+  #   url: /Projects/
 
-  - title: "Resume"
-    url: /Resume/
+  # - title: "Resume"
+  #   url: /Resume/
