@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is Ethan Landers. I'm an [Old Dominion University](https://odu.edu/) graduate student pursuing an M.S. in Computer Science, where I expect to graduate by Spring 2025. I am passionate about technology, music, [photography](https://ethanlandersphoto.myportfolio.com/), building communities, and foreign languages. I am bilingual with Spanish, self-taught!
+My name is Ethan Landers. I'm an [Old Dominion University](https://odu.edu/) graduate student pursuing an M.S. in Computer Science, where I expect to graduate by Spring 2025. I am passionate about technology, music, [photography](https://ethanlandersphoto.myportfolio.com/), building communities, and foreign languages. I am bilingual with Spanish, as I am self-taught.
 
-I am an organizer for two large tech Meetup groups based in Southwest Florida:
+I am also an organizer for two large tech Meetup groups based in Southwest Florida:
 * [Python SWFL](https://www.meetup.com/pythonswfl/)
   - Volunteer-run interdisciplinary user group based in Southwest Florida dedicated to exploration and experimentation with the Python programming language.
   - Over 350 members.
