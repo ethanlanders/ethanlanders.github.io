@@ -17,7 +17,7 @@ author_profile: true
 
 <div id="NetflixFilmAnalysis" class="tabcontent">
   <h2>Netflix Film Analysis</h2>
-  <a href="https://github.com/ethanlanders/netflix-film-analysis" class="github-button">View on GitHub</a>
+  <a href="https://github.com/ethanlanders/netflix-film-analysis" class="github-button" target="_blank">View on GitHub</a>
   <p><b>Old Dominion University, Spring 2024</b></p>
   <h3>Video Demo:</h3>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/GDShteNxp6c?si=8WDGTLSQgJd4Rcyd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -26,7 +26,7 @@ author_profile: true
 
 <div id="CourseCompanion" class="tabcontent">
   <h2>Course Companion</h2>
-  <a href="https://github.com/ethanlanders/course-companion" class="github-button">View on GitHub</a>
+  <a href="https://github.com/ethanlanders/course-companion" class="github-button" target="_blank">View on GitHub</a>
   <p><b>Old Dominion University, Fall 2023 & Spring 2024</b></p>
   <p>Worked with a team of eight on our senior year capstone project to develop Course Companion, a tool designed to help university instructors improve the accessibility and quality of their course materials. This software allows educators to upload course materials for in-depth analysis, providing valuable insights and suggestions for enhancement.</p>
 
@@ -45,7 +45,7 @@ author_profile: true
 
 <div id="UrbanAnalysis" class="tabcontent">
   <h2>Walkability and Well-Being - An Urban Analysis</h2>
-  <a href="https://github.com/ethanlanders/walkability-and-wellbeing" class="github-button">View on GitHub</a>
+  <a href="https://github.com/ethanlanders/walkability-and-wellbeing" class="github-button" target="_blank">View on GitHub</a>
   <p><b>Old Dominion University, Fall 2023</b></p>
 
   <h3>Video Demo:</h3>
@@ -69,7 +69,7 @@ author_profile: true
 
 <div id="CPUScheduling" class="tabcontent">
   <h2>CPU Scheduling & Process Synchronization</h2>
-  <a href="https://github.com/ethanlanders/cpu-scheduling-process-synchronization" class="github-button">View on GitHub</a>
+  <a href="https://github.com/ethanlanders/cpu-scheduling-process-synchronization" class="github-button" target="_blank">View on GitHub</a>
   <p><b>Old Dominion University, Fall 2023</b></p>
 
   <h3>Video Demo:</h3>
