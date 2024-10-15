@@ -52,3 +52,12 @@ border-radius: 5px;
 .github-button:hover {
 background-color: #3b4045;
 }
+
+/* CSS for iframe */
+iframe {
+  border: none; /* Remove border for cleaner look */
+  width: 100%;  /* Full width */
+  height: 800px; /* Adjusted height */
+  max-height: 90vh; /* Ensures it does not overflow viewport */
+  overflow: auto; /* Allows scrolling if content exceeds height */
+}
