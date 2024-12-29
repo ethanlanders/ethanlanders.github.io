@@ -7,7 +7,7 @@ redirect_from:
   - /Resume
 ---
 
-Download a PDF version of my resume [here](https://ethanlanders.github.io/files/resume-ethanlanders.pdf){:target="_blank"}.
+Download a PDF version of my resume [here](https://ethanlanders.github.io/files/resume_ethanlanders.pdf){:target="_blank"}.
 
-<iframe src="https://ethanlanders.github.io/files/resume-ethanlanders.pdf" width="100%" height="800" style="max-height: 90vh;" frameborder="no" marginwidth="0" marginheight="0"></iframe>
+<iframe src="https://ethanlanders.github.io/files/resume_ethanlanders.pdf" width="100%" height="800" style="max-height: 90vh;" frameborder="no" marginwidth="0" marginheight="0"></iframe>
 
