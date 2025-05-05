@@ -72,9 +72,9 @@ social:
     - title: LinkedIn
       url: https://www.linkedin.com/in/ethanlanders/
       icon: fab fa-linkedin
-    - title: Twitter
-      url: https://twitter.com/ethanlanders_
-      icon: fab fa-twitter
+    # - title: Twitter
+    #   url: https://twitter.com/ethanlanders_
+    #   icon: fab fa-twitter
     # Add more social media profiles as needed
 
 
@@ -90,14 +90,14 @@ author:
   name             : "Ethan Landers"
   avatar           : "headshot.jpg"
   bio              : "Computer Science Graduate Student"
-  location         : "Estero, FL"
+  location         : "Virginia Beach, VA, USA"
   employer         : "Old Dominion University"
   employeruri      : "https://www.odu.edu/academics/programs/masters/computer-science"
   pubmed           : 
   googlescholar    : 
   email            : "elanders002@gmail.com"
   researchgate     :
-  uri              :
+  uri              : https://ethanlanders.github.io/
   bitbucket        :
   codepen          :
   dribbble         :
@@ -117,7 +117,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "ethanlanders_"
+  twitter          : #"ethanlanders_"
   vine             :
   weibo            :
   xing             :
