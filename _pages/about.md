@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Ethan! I'm a computer science graduate student at [Old Dominion University](https://odu.edu/), expecting to graduate by May 2025. I'm passionate about solving complex problems, building data-driven solutions, leadership, and fostering collaborative tech communities. I bring a diverse and adaptable skill set to every project. I also speak Spanish conversationally being self-taught.
+**Hi, I'm Ethan!**
+
+I'm a computer science graduate student at [Old Dominion University](https://odu.edu/){:target="_blank"}, and I will graduate in August 2025. I'm passionate about solving complex problems, leadership, cultural understanding, and community building. I bring a diverse and adaptable skill set to every project. I also speak Spanish conversationally being self-taught.
 
 I'm seeking opportunities in tech where I can leverage my skills in Python, C++, and data visualization.
 
