@@ -14,6 +14,6 @@ This summer, I am working as a Business Analytics Intern at [Chartway Credit Uni
 
 I am particularly interested in opportunities where I can apply my skills in data analysis, visualization, and storytelling to uncover meaningful insights and improve systems. I work comfortably across tools like Python, JavaScript, D3.js, SQL, and Power BI.
 
-Outside of the classroom and workplace, I lead the [Tech Alliance of SWFL](https://www.meetup.com/techallianceswfl/){:target="_blank"}, a community of 2,000+ tech professionals and learners. I organize meetups, Python workshops, and open-source projects, including a cross-city partnership with [Grammerhub](https://grammerhub.org/){:target="_blank"} to redesign our website and connect developers with real project experience.
+Outside of the classroom and workplace, I lead the [Tech Alliance of SWFL](https://www.techallianceswfl.org/){:target="_blank"}, a community of 2,000+ tech professionals and learners. I organize meetups, Python workshops, and open-source projects, including a cross-city partnership with [Grammerhub](https://grammerhub.org/){:target="_blank"} to redesign our website and connect developers with real project experience.
 
 I speak conversational Spanish and care deeply about cross-cultural collaboration, community building, and continual learning. I am always looking for opportunities to grow, contribute, and connect.
