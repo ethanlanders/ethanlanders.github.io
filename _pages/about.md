@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Ethan! I'm a computer science graduate student at [Old Dominion University](https://odu.edu/){:target="_blank"}, and I will graduate in August 2025. I'm passionate about solving complex problems, leadership, cultural understanding, and community building. I bring a diverse and adaptable skill set to every project. I also speak Spanish conversationally being self-taught.
+Hi, I'm Ethan -- a Computer Science graduate student at [Old Dominion University](https://odu.edu/){:target="_blank"}, graduating in August 2025. I'm passionate about solving complex problems, leadership, cultural understanding, and community building. I bring a diverse and adaptable skill set to every project. I also speak Spanish conversationally being self-taught.
 
-I'm seeking opportunities in tech where I can leverage my skills in Python, C++, and data visualization.
+This summer, I am working as a Business Analytics Intern at Chartway Credit Union in Virginia Beach, Virginia, where I analyze real estate data using SQL and Power BI to drive business insights and inform decision-making. My recent projects include building an interactive dashboard to visualize the effects of medical breakthroughs on 20th-century U.S. mortality trends, and analyzing Netflix film data to explore viewing patterns.
 
-I also organize the [Tech Alliance of SWFL](https://www.meetup.com/techallianceswfl/){:target="_blank"}, a collective of technology groups and industry leaders dedicated to fostering innovation, promoting technology education, and driving the growth of technology in Southwest Florida. The Tech Alliance has over 700 members individually and 2,000 members collectively. A notable achievement of mine was facilitating a partnership with [Grammerhub](https://grammerhub.org/){:target="_blank"}, a Miami-based tech community, to revamp the Tech Alliance's website. This project improved the website’s functionality and accessibility while providing emerging developers with opportunities to contribute to a nonprofit open-source initiative. It also bridged two tech communities, fostering skill development and expanding outreach.
+I am particularly interested in opportunities where I can apply my skills in data analysis, visualization, and storytelling to uncover meaningful insights and improve systems. I work comfortably across tools like Python, JavaScript, D3.js, SQL, and Power BI.
 
-I'm excited to bring my technical expertise, leadership experience, and collaborative mindset to my next opportunity in tech.
+Outside of the classroom and workplace, I lead the [Tech Alliance of SWFL](https://www.meetup.com/techallianceswfl/){:target="_blank"}, a community of 2,000+ tech professionals and learners. I organize meetups, Python workshops, and open-source projects, including a cross-city partnership with Grammerhub](https://grammerhub.org/){:target="_blank"} to redesign our website and connect developers with real project experience.
+
+I speak conversational Spanish and care deeply about cross-cultural collaboration, community building, and continual learning. I am always looking for opportunities to grow, contribute, and connect.
