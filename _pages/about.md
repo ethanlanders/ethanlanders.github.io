@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Ethan -- a Computer Science graduate student at [Old Dominion University](https://odu.edu/){:target="_blank"}, graduating in August 2025. I'm passionate about solving complex problems, leadership, cultural understanding, and community building. I bring a diverse and adaptable skill set to every project. I also speak Spanish conversationally being self-taught.
+Hi, I'm Ethan -- a Computer Science graduate student at [Old Dominion University](https://odu.edu/){:target="_blank"}, graduating in August 2025. I specialize in data analytics, visualization, and problem-solving at the intersection of technology and real-world impact.
 
 This summer, I am working as a Business Analytics Intern at Chartway Credit Union in Virginia Beach, Virginia, where I analyze real estate data using SQL and Power BI to drive business insights and inform decision-making. My recent projects include building an interactive dashboard to visualize the effects of medical breakthroughs on 20th-century U.S. mortality trends, and analyzing Netflix film data to explore viewing patterns.
 
