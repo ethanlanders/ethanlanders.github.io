@@ -9,10 +9,20 @@ author_profile: true
 <script src="../assets/js/scripts.js"></script>
 
 <div class="tab">
+  <button class="tablinks" onclick="openProject(event, 'medical_breakthrough_dashboard')"><b>Medical Breakthrough Dashboard</b></button>
   <button class="tablinks" onclick="openProject(event, 'NetflixFilmAnalysis')"><b>Netflix Film Analysis</b></button>
   <button class="tablinks" onclick="openProject(event, 'CourseCompanion')"><b>Course Companion</b></button>
   <button class="tablinks" onclick="openProject(event, 'UrbanAnalysis')"><b>Walkability & Well-Being</b></button>
   <button class="tablinks" onclick="openProject(event, 'CPUScheduling')"><b>CPU Management</b></button>
+</div>
+
+<div id="medical_breakthrough_dashboard" class="tabcontent">
+  <h2>Medical Breakthrough Dashboard</h2>
+  <a href="https://observablehq.com/@ethanlanders/dashboard-project-implementation" class="github-button" target="_blank">View on Observable</a>
+  <p><b>Old Dominion University, Spring 2025</b></p>
+  
+  <span><a href="https://observablehq.com/@ethanlanders/report-interactive-dashboard-visualization-project" target="_blank">Click here</a> to view the project report.</span>
+
 </div>
 
 <div id="NetflixFilmAnalysis" class="tabcontent">
