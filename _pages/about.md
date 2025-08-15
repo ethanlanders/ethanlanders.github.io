@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Ethan -- a Computer Science graduate student at [Old Dominion University](https://odu.edu/){:target="_blank"}, graduating in August 2025. I specialize in data analytics, visualization, and problem-solving at the intersection of technology and real-world impact.
+Hi, I'm Ethan!
 
-This summer, I am working as a Business Analytics Intern at [Chartway Credit Union](https://www.chartway.com/){:target="_blank"} in Virginia Beach, Virginia, where I analyze real estate data using SQL and Power BI to drive business insights and inform decision-making. My recent projects include building an interactive dashboard to visualize the effects of medical breakthroughs on 20th-century U.S. mortality trends, and analyzing Netflix film data to explore viewing patterns.
+I just graduated with my master's degree from [Old Dominion University](https://odu.edu/){:target="_blank"}. I specialize in data analytics, visualization, and problem-solving at the intersection of technology and real-world impact.
 
-I am particularly interested in opportunities where I can apply my skills in data analysis, visualization, and storytelling to uncover meaningful insights and improve systems. I work comfortably across tools like Python, JavaScript, D3.js, SQL, and Power BI.
+This summer, I worked as a Business Analytics Intern at [Chartway Credit Union](https://www.chartway.com/){:target="_blank"}, where I automated monthly mortgage GL expense forecasting by transitioning a manual Excel model into Power BI with DAX, reducing processing time and improving accuracy of financial predictions. My recent data projects include building an interactive dashboard to visualize the effects of medical breakthroughs on 20th-century U.S. mortality trends, and analyzing Netflix film data to explore viewing patterns.
+
+I am particularly interested in opportunities where I can apply my skills in data analysis, automation, and visualization to uncover meaningful insights and improve systems. I work comfortably across tools like SQL, Python, and Power BI.
 
 Outside of the classroom and workplace, I lead the [Tech Alliance of SWFL](https://www.techallianceswfl.org/){:target="_blank"}, a community of 2,000+ tech professionals and learners. I organize meetups, Python workshops, and open-source projects, including a cross-city partnership with [Grammerhub](https://grammerhub.org/){:target="_blank"} to redesign our website and connect developers with real project experience.
 
