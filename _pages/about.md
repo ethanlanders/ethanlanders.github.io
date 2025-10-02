@@ -10,9 +10,9 @@ redirect_from:
 
 Hi, I'm Ethan!
 
-I just graduated with my master's degree from [Old Dominion University](https://odu.edu/){:target="_blank"}. I specialize in data analytics, visualization, and problem-solving at the intersection of technology and real-world impact.
+I just graduated with my master's degree from [Old Dominion University](https://odu.edu/){:target="_blank"}. I specialize in analytics, visualization, project coordination, and problem-solving.
 
-This summer, I worked as a Business Analytics Intern at [Chartway Credit Union](https://www.chartway.com/){:target="_blank"}, where I automated monthly mortgage GL expense forecasting by transitioning a manual Excel model into Power BI with DAX, reducing processing time and improving accuracy of financial predictions. My recent data projects include building an interactive dashboard to visualize the effects of medical breakthroughs on 20th-century U.S. mortality trends, and analyzing Netflix film data to explore viewing patterns.
+This summer, I worked as a Business Analytics Intern at [Chartway Credit Union](https://www.chartway.com/){:target="_blank"}, where I automated monthly mortgage GL expense forecasting by transitioning a manual Excel model into Power BI with DAX, reducing processing time and improving accuracy of financial predictions. My recent data projects include building an interactive dashboard to visualize the effects of medical breakthroughs on 20th-century U.S. mortality trends and analyzing Netflix film data to explore viewing patterns.
 
 I am particularly interested in opportunities where I can apply my skills in data analysis, automation, and visualization to uncover meaningful insights and improve systems. I work comfortably across tools like SQL, Python, and Power BI.
 
